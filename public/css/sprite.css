@@ -1,0 +1,24 @@
+.svg-ex1_48x48 {
+	background: url("svg/sprite.css.svg") 0 0 no-repeat;
+	width: 48px;
+	height: 48px;
+}
+
+.svg-ex1_te_48x48 {
+	background: url("svg/sprite.css.svg") 100% 0 no-repeat;
+	width: 48px;
+	height: 48px;
+}
+
+.svg-ex_18x18 {
+	background: url("svg/sprite.css.svg") 0 100% no-repeat;
+	width: 18px;
+	height: 18px;
+}
+
+.svg-ex_te_18x18 {
+	background: url("svg/sprite.css.svg") 23.076923076923077% 100% no-repeat;
+	width: 18px;
+	height: 18px;
+}
+

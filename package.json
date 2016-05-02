@@ -1,0 +1,33 @@
+{
+  "name": "gid_ui",
+  "version": "1.0.0",
+  "description": "The site for the GID UX team.",
+  "css_description": "\r\n /*! \r\n * The GTI UI KIT  \r\n * http://ux-tool-kit.apps.dev.na-2.gaia.jpmchase.net \r\n * Copyright 2016 JPMC  \r\n * This file contains a themed bootstrap file & the GTI UI's styles. \r\n */ \r\n \r\n",
+  "main": "/public/index.js",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js --use_strict",
+    "test": "test"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.13.4",
+    "jade": "1.11.x"
+  },
+  "devDependencies": {
+    "async": "2.0.0-rc.3",
+    "del": "^2.2.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-less": "3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-svg-sprite": "^1.2.19",
+    "gulp-util": "^3.0.7"
+  },
+  "author": "Brad Roy (r567357)",
+  "license": "ISC"
+}
